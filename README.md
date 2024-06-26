@@ -2,6 +2,10 @@
 <h1 align="center">I'm Nancy Nyabuti</h1>
 An Android Developer and a passionate sign language interpreter. I enjoy writing web novels. (Fantasy and Romance)
 
+Skills: Android/ Kotlin / Jetpack Compose / Firebase
+
+- 👯 I’m open to collaborate on Android App with Jetpack Compose 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/nyabuti_nancy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nyabuti_nancy" height="30" width="40" /></a>
