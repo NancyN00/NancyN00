@@ -2,7 +2,8 @@
 <h1 align="center">I'm Nancy Nyabuti</h1>
 An Android Developer and a passionate sign language interpreter. I enjoy writing web novels. (Fantasy and Romance)
 
-Skills: Android/ Kotlin / Jetpack Compose / Firebase
+
+- Skills: Android/ Kotlin / Jetpack Compose / Firebase
 
 - 👯 I’m open to collaborate on Android App with Jetpack Compose 
 
