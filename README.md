@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">I'm Nancy Nyabuti</h1>
-An Mobile Developer and a passionate Kenyan Sign Language Interpreter. I enjoy writing web novels. 
+An Android Developer and a passionate Kenyan Sign Language Interpreter. I enjoy writing web novels. 
 
 
 - Skills: Android/ Kotlin / Jetpack Compose / Firebase
